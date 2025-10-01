@@ -1,0 +1,3 @@
+estoy apren diendo GIT para posteriormente dar el examen
+Estoy empezando a entender mas el uso de Git!
+se agrgo una tercera linea con la rama redes
